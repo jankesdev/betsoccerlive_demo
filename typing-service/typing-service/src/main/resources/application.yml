@@ -1,0 +1,5 @@
+application:
+  title: "typing-service"
+
+server:
+  port: 8081

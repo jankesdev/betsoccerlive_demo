@@ -1,0 +1,9 @@
+spring:
+  application:
+    title: "countries-service"
+  data:
+    mongodb.host: localhost
+    mongodb.port: 27017
+    mongodb.database: betsoccerlive
+    mongo.repositories.enabled: true
+    
